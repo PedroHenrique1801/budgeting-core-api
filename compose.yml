@@ -17,5 +17,5 @@ services:
       retries: 15
       start_period: 40s
 
-volumes: 
+volumes:
   transaction_data:
